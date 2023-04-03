@@ -1,0 +1,54 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "苹果",
+            "money": 13,
+            "address": 100,
+            "state": "待审批",
+            "date": "2019-11-1",
+            "supplier":"BBB公司",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "香蕉",
+            "money": 6,
+            "address": 200,
+            "state": "已审批",
+            "date": "2019-10-11",
+            "supplier":"AAA公司",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "菠萝",
+            "money": 30,
+            "address": 500,
+            "state": "不通过",
+            "date": "2019-11-11",
+            "supplier":"CCC公司",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "芒果",
+            "money": 11,
+            "address": 100,
+            "state": "待审批",
+            "date": "2019-10-20",
+            "supplier":"BBB公司",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        },
+        {
+            "id": 5,
+            "name": "西瓜",
+            "money": 8,
+            "address": 30,
+            "state": "不通过",
+            "date": "2019-10-20",
+            "supplier":"AAA公司",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 5
+}
